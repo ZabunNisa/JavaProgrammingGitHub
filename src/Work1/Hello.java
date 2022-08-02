@@ -9,7 +9,7 @@ public class Hello {
 
         System.out.println("Created Git repository");
 
-
+        System.out.println("Made few more commits");
     }
 
 }
